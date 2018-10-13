@@ -1,12 +1,12 @@
 [
-  {name: "apple", price: 1000},
-  {name: "banana", price: 200},
-  {name: "cherry", price: 3000},
-  {name: "grapes", price: 1500},
-  {name: "kiwi", price: 4000},
-  {name: "melon", price: 9000},
-  {name: "watermelon", price: 20000},
-  {name: "orange", price: 15000},
-  {name: "pear", price: 5000},
-  {name: "strawberry", price: 7000}
+  {"name": "apple", "price": 1000},
+  {"name": "banana", "price": 200},
+  {"name": "cherry", "price": 3000},
+  {"name": "grapes", "price": 1500},
+  {"name": "kiwi", "price": 4000},
+  {"name": "melon", "price": 9000},
+  {"name": "watermelon", "price": 20000},
+  {"name": "orange", "price": 15000},
+  {"name": "pear", "price": 5000},
+  {"name": "strawberry", "price": 7000}
 ]
