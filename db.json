@@ -1,12 +1,12 @@
-{
-  "apple" : 1000,
-  "banana" : 500,
-  "cherry" : 3000,
-  "grapes" : 700,
-  "kiwi" : 2000,
-  "melon" : 4000,
-  "orange" : 300,
-  "pear" : 2000,
-  "strawberry" : 200,
-  "watermelon" : 10000
-}
+[
+  {name: "apple", price: 1000},
+  {name: "banana", price: 200},
+  {name: "cherry", price: 3000},
+  {name: "grapes", price: 1500},
+  {name: "kiwi", price: 4000},
+  {name: "melon", price: 9000},
+  {name: "watermelon", price: 20000},
+  {name: "orange", price: 15000},
+  {name: "pear", price: 5000},
+  {name: "strawberry", price: 7000}
+]
